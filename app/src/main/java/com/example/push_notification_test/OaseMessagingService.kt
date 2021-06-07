@@ -10,12 +10,12 @@ import com.google.firebase.messaging.RemoteMessage
 class OaseMessagingService : FirebaseMessagingService() {
     override fun onMessageReceived(remoteMessage: RemoteMessage) {
         super.onMessageReceived(remoteMessage)
-        Log.d("masuk notifikasi", "haha")
+        Log.e("asd", "haha"+remoteMessage.notification?.title)
     }
 
     override fun onNewToken(token: String) {
         //send new token to backend server for targeted notification
-        Log.e("token", token)
+        Log.e("asd", token)
     }
 
 
