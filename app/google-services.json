@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "552052474265",
+    "project_id": "oase-389a2",
+    "storage_bucket": "oase-389a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552052474265:android:c2677fa6227c0af3fd1308",
+        "android_client_info": {
+          "package_name": "com.example.push_notification_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552052474265-okslan4jvnm3cuuq3sl1blsc2o1jg61c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.push_notification_test",
+            "certificate_hash": "9032e33178e8d83804a5a3098a1bfa095ca25409"
+          }
+        },
+        {
+          "client_id": "552052474265-t1qjtnd4mttum86r97oecognvf5v4tpt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7NMdslGCPiS4aL0wGSZgFqHR3QBATSDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552052474265-t1qjtnd4mttum86r97oecognvf5v4tpt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
